@@ -1,6 +1,6 @@
 # README
 
-Sorry, I've not published yet.
+![Viewing](SS.png)
 
 ## How to install
 
