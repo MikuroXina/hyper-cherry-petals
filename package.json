@@ -1,0 +1,25 @@
+{
+  "name": "hyper-cherry-petals",
+  "version": "1.0.0",
+  "description": "Hyper theme by RkEclair",
+  "main": "main.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RkEclair/hyper-cherry-petals.git"
+  },
+  "keywords": [
+    "hyperterm",
+    "hyperterm-theme",
+    "hyper",
+    "hyper-theme",
+    "colors",
+    "theme",
+    "cherry-petals"
+  ],
+  "author": "RkEclair",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/RkEclair/hyper-cherry-petals/issues"
+  },
+  "homepage": "https://github.com/RkEclair/hyper-cherry-petals#readme"
+}
